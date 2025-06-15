@@ -21,3 +21,6 @@ A Windows tray app written in C# that tracks when the `W` key is held and the le
 6. Close the window to hide the app (it keeps running in the tray).
 
 7. Right-click the tray icon and choose **Exit** to close the app.
+
+
+![Screenshot 2025-06-15 105005](https://github.com/user-attachments/assets/5780e53f-b92e-4f96-98b7-dbcc5a4f31c2)
