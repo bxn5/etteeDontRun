@@ -1,0 +1,15 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vsix
+*.dbmdl
+_ReSharper*/
+*.resharper
+
+# Others
+*.exe
+*.dll
